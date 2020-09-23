@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently an Under Grad
-- 🌱 Fond of coding
+- 👨🏻‍🎓 I’m currently an Under Grad
+- 〰️ Fond of coding
 - 👯 I’m looking to collaborate with fellow dev's
 - 🤔 Love's Peer Learning
 - 💬 Ask me about Java!
